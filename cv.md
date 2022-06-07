@@ -10,7 +10,8 @@ Over time, I realized that I wanted "something else" and decided to try myself i
 
 I have basic knowledge in building networks and explosive information security zones. I have experience with JavaScript, HTML, CSS, PHP, SQL, some experience in database administration and system monitoring.
 
-One example of my work can be seen here: [Code example](https://github.com/AFK-Ivan/GBstuff).
+One example of my project can be seen here: [Code example](https://github.com/AFK-Ivan/GBstuff).
+
 Also, an example of a code solution from Codewars:
 ```javascript 
 function multiply(a, b){
