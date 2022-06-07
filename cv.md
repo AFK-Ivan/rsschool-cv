@@ -1,7 +1,5 @@
 **Ivan Brykin**
-
-![Photo](https://sun9-18.userapi.com/s/v1/if1/aAaTWf1hPKHe3DrZ2wLTPC9ewPyeHpENIsg3cki6A3uZzW3pqVgbDJtCtxyTa-DUuU4q65Bv.jpg?size=1428x2048&quality=96&type=album)
-
+![](https://sun9-18.userapi.com/s/v1/if1/aAaTWf1hPKHe3DrZ2wLTPC9ewPyeHpENIsg3cki6A3uZzW3pqVgbDJtCtxyTa-DUuU4q65Bv.jpg?size=1428x2048&quality=96&type=album){width=25%}
 Discord: **@Armad#1482**
 
 Phone number: **+79200295592**
