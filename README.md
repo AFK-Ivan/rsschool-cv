@@ -1,1 +1,1 @@
-# rsschool-cv
+https://afk-ivan.github.io/rsschool-cv/cv
