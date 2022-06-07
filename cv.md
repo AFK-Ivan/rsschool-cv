@@ -1,15 +1,15 @@
-*Иван Брыкин
+**Ivan Brykin**
 
-+79200295592
+**+79200295592**
 
-Со временем понял, что хочу "чего-то другого" и решил попробывать себя во fronted. Моя цель заключается в получении достаточных навыков для работы в Fronted-разработчиком. Моими сильными сторонами являются трудолюбивость и непоколебимое желание к самосовершенствованию. На данный момент работаю IT-Engineer`ом в компании Alaris Labs и, одновременно с этим, учусь в университете на 5-ом курсе. 
+<p>Over time, I realized that I wanted "something else" and decided to try myself in the front. My goal will be achieved with obtaining the necessary skills to work in a Fronted-developer. My supposed expectations are hard work and an unwavering desire for self-improvement. At the moment I work as an IT-Engineer at Alaris Labs and, at the same time, I study at the university in the 5th year.</p>
 
-Имею базовые знания в построении сетей и поверхностные в информационной безопасности. Имел опыт работы с JavaScript, HTML, CSS, PHP, SQL, небольшой опыт в Database Administration и в мониторинге систем.
+<p>I have basic knowledge in building networks and explosive information security zones. I have experience with JavaScript, HTML, CSS, PHP, SQL, some experience in database administration and system monitoring.</p>
 
-Один из примеров моей работы можно посмотреть здесь:
-[Пример кода](https://github.com/AFK-Ivan/GBstuff)
+<p>One example of my work can be seen here:</p>
+<p>[Code example](https://github.com/AFK-Ivan/GBstuff)</p>
 
-Учился на курсах Geekbrains Информационная безопасность. Получились базовые навыки в этой области, но не закончил их, т.к. на данный момент найти работу в ИБ за границей очень проблематично, а для меня, профессия с возможностью без существенных проблем устроиться за рубежом - приоритетная задача. Помимо курсов, учусь на 5 курсе в ННГУ им. Лобачевского на Радиофизическом факультете по специальности: "Информационная безопасность телекоммуникационных систем".
+<p>Studied at Geekbrains Information Security courses. Got basic skills in this area, but did not finish them, because at the moment, finding a job in information security abroad is very problematic, but for me, a profession with the ability to get a job abroad without significant problems is a priority. In addition to the courses, I am a 5th year student at the UNN. Lobachevsky at the Faculty of Radiophysics, specialty: "Information security of telecommunication systems".</p>
 
-Мой уровень английского языка: B1. На текущей работе знание английского языка - это необходимость.
+<p>My level of English: B1. At the current job, knowledge of English is a must.</p>
 
