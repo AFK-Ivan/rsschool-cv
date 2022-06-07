@@ -1,6 +1,6 @@
 **Ivan Brykin**
 
-![Photo](https://sun9-18.userapi.com/s/v1/if1/aAaTWf1hPKHe3DrZ2wLTPC9ewPyeHpENIsg3cki6A3uZzW3pqVgbDJtCtxyTa-DUuU4q65Bv.jpg?size=1428x2048&quality=96&type=album){width=250px}
+![Photo](https://sun1-22.userapi.com/s/v1/if1/msHM7cHlCIlRebgeMz9LPBiNTbsJtOpiK-AbgruX5QYWBTVMe6Mcj8WCsHvAIJBuJ8_Jt5hQ.jpg?size=200x200&quality=96&crop=0,0,2047,2047&ava=1)
 
 Discord: **@Armad#1482**
 
