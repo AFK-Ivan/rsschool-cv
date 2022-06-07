@@ -1,6 +1,6 @@
 **Ivan Brykin**
 
-![avatar](C:\Users\bryki\Downloads\shrine20200309-38-1na37zs.jpeg)
+![Photo](https://sun9-18.userapi.com/s/v1/if1/aAaTWf1hPKHe3DrZ2wLTPC9ewPyeHpENIsg3cki6A3uZzW3pqVgbDJtCtxyTa-DUuU4q65Bv.jpg?size=1428x2048&quality=96&type=album)
 
 Discord: **@Armad#1482**
 
