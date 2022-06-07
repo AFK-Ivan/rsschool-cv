@@ -1,8 +1,9 @@
 **Ivan Brykin**
 
-!(C:\Users\bryki\Downloads\shrine20200309-38-1na37zs.jpeg)
+![avatar](C:\Users\bryki\Downloads\shrine20200309-38-1na37zs.jpeg)
 
 Discord: **@Armad#1482**
+
 Phone number: **+79200295592**
 
 Over time, I realized that I wanted "something else" and decided to try myself in the front. My goal will be achieved with obtaining the necessary skills to work in a Fronted-developer. My supposed expectations are hard work and an unwavering desire for self-improvement. At the moment I work as an IT-Engineer at Alaris Labs and, at the same time, I study at the university in the 5th year.
