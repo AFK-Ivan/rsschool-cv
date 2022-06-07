@@ -6,8 +6,7 @@
 
 <p>I have basic knowledge in building networks and explosive information security zones. I have experience with JavaScript, HTML, CSS, PHP, SQL, some experience in database administration and system monitoring.</p>
 
-<p>One example of my work can be seen here:</p>
-[Code example](https://github.com/AFK-Ivan/GBstuff)
+<p>One example of my work can be seen here: [Code example](https://github.com/AFK-Ivan/GBstuff).</p>
 
 <p>Studied at Geekbrains Information Security courses. Got basic skills in this area, but did not finish them, because at the moment, finding a job in information security abroad is very problematic, but for me, a profession with the ability to get a job abroad without significant problems is a priority. In addition to the courses, I am a 5th year student at the UNN. Lobachevsky at the Faculty of Radiophysics, specialty: "Information security of telecommunication systems".</p>
 
